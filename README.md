@@ -5,5 +5,5 @@
   📖 reading: do hard things <br> 
   🎧 listening to: <br> </samp>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=1255006549&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) <br>
-<br><br><br><br><br>
+<br><br>
 <samp><img src="https://blog.waalaxy.com/wp-content/uploads/2021/01/LinkedIn-Symbole.png" width="23">find me on [linkedin](https://www.linkedin.com/in/ms-/) 💭
