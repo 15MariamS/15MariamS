@@ -1,4 +1,4 @@
-<img align="left" width="250" src="https://user-images.githubusercontent.com/81782111/205674385-888f42eb-2fe3-4477-932c-af7437da6405.png"> <samp> ꧁ hi! ꧂<br>
+<img align="left" width="250" src="https://user-images.githubusercontent.com/81782111/205675443-289d7292-603b-47a2-908a-a0f7d6e11552.png"> <samp> ꧁ hi! ꧂<br>
 
   👩‍💻 i do security product things at github <br> 
   🎙️ listening to: [huberman lab](https://hubermanlab.com/nutrients-for-brain-health-and-performance/) <br>
