@@ -1,4 +1,4 @@
-  <img align="left" width="350" src="https://github.com/15MariamS/15MariamS/assets/81782111/641195d5-630a-4cba-aed4-644bd6b374bc"> <samp> ꧁ hi! ꧂<br>
+  <img align="left" width="350" src="https://github.com/user-attachments/assets/dbb10da0-06fe-4d90-a12b-01c76c2104d5"> <samp> ꧁ hi! ꧂<br>
 
   👩‍💻 building [pincites](https://pincites.com/) <br> 
   🎙️ learning from: [huberman lab](https://hubermanlab.com/nutrients-for-brain-health-and-performance/) <br>
