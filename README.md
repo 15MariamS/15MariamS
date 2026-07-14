@@ -1,6 +1,6 @@
 #  <img align="left" width="350" src="https://github.com/user-attachments/assets/08dc1321-be19-4404-a706-f7c794ce19f9"> <samp> ꧁ hi! ꧂<br> 
 
- ### 👩‍💻 building [pincites](https://pincites.com/) <br> 
+ ### 👩‍💻 building [lois](https://www.filevine.com/platform/lois-for-word) <br> 
  ### 🎙️ learning from: [huberman lab](https://hubermanlab.com/nutrients-for-brain-health-and-performance/) <br>
  ### 📖 reading: [crime and punishment](https://www.goodreads.com/en/book/show/7144.Crime_and_Punishment) <br> 
  ### 🎧 listening to: <br> </samp>
